@@ -1,8 +1,6 @@
 # Data Visualization Project
 
 [Pierce_Unsupervised Learning.py](https://github.com/user-attachments/files/27092388/Pierce_Unsupervised.Learning.py)
-#!/usr/bin/env python
-# coding: utf-8
 
 import pandas as pd
 import numpy as np
